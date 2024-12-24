@@ -1,0 +1,196 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.4",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2024-12-24T00:00:00Z"
+  },
+  "components": [
+    {
+      "type": "library",
+      "name": "stdio.h",
+      "version": "unknown",
+      "purl": "pkg:generic/stdio.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "stdlib.h",
+      "version": "unknown",
+      "purl": "pkg:generic/stdlib.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "math.h",
+      "version": "unknown",
+      "purl": "pkg:generic/math.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "openssl/sha.h",
+      "version": "unknown",
+      "purl": "pkg:generic/openssl/sha.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "stdio.h",
+      "version": "unknown",
+      "purl": "pkg:generic/stdio.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "String.h",
+      "version": "unknown",
+      "purl": "pkg:generic/String.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "stdlib.h",
+      "version": "unknown",
+      "purl": "pkg:generic/stdlib.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "conio.h",
+      "version": "unknown",
+      "purl": "pkg:generic/conio.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "apr.h",
+      "version": "unknown",
+      "purl": "pkg:generic/apr.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "apr_strings.h",
+      "version": "unknown",
+      "purl": "pkg:generic/apr_strings.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "apr_getopt.h",
+      "version": "unknown",
+      "purl": "pkg:generic/apr_getopt.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "apr_general.h",
+      "version": "unknown",
+      "purl": "pkg:generic/apr_general.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "apr_lib.h",
+      "version": "unknown",
+      "purl": "pkg:generic/apr_lib.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "apr_md5.h",
+      "version": "unknown",
+      "purl": "pkg:generic/apr_md5.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "apr_time.h",
+      "version": "unknown",
+      "purl": "pkg:generic/apr_time.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "apr_version.h",
+      "version": "unknown",
+      "purl": "pkg:generic/apr_version.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "apu_version.h",
+      "version": "unknown",
+      "purl": "pkg:generic/apu_version.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "apr_want.h",
+      "version": "unknown",
+      "purl": "pkg:generic/apr_want.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "ap_config.h",
+      "version": "unknown",
+      "purl": "pkg:generic/ap_config.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "httpd.h",
+      "version": "unknown",
+      "purl": "pkg:generic/httpd.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "http_main.h",
+      "version": "unknown",
+      "purl": "pkg:generic/http_main.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "http_log.h",
+      "version": "unknown",
+      "purl": "pkg:generic/http_log.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "http_config.h",
+      "version": "unknown",
+      "purl": "pkg:generic/http_config.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "http_core.h",
+      "version": "unknown",
+      "purl": "pkg:generic/http_core.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "mod_core.h",
+      "version": "unknown",
+      "purl": "pkg:generic/mod_core.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "http_request.h",
+      "version": "unknown",
+      "purl": "pkg:generic/http_request.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "http_vhost.h",
+      "version": "unknown",
+      "purl": "pkg:generic/http_vhost.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "apr_uri.h",
+      "version": "unknown",
+      "purl": "pkg:generic/apr_uri.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "util_ebcdic.h",
+      "version": "unknown",
+      "purl": "pkg:generic/util_ebcdic.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "ap_mpm.h",
+      "version": "unknown",
+      "purl": "pkg:generic/ap_mpm.h@unknown"
+    },
+    {
+      "type": "library",
+      "name": "unistd.h",
+      "version": "unknown",
+      "purl": "pkg:generic/unistd.h@unknown"
+    }
+  ]
+}
